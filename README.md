@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>Sure! Here's a more concise version:<br><br>👨‍💻 Junior Engineer | Azure | Angular | ASP.NET | Python | AI Enthusiast<br><br>Junior Engineer specializing in Azure, Angular, and ASP.NET for cloud and web development. <br>I enjoy using Python to enhance projects and streamline processes. Currently exploring AI and machine learning to drive innovation. <br>Let’s collaborate and build something great!
 
 
